@@ -1,4 +1,4 @@
 const { testiFunktio } = require("./scope");
 
-const scope = require('./scope.js');
-scope.testiFunktio();
+const myModule = require('./scope.js');
+myModule.testiFunktio();

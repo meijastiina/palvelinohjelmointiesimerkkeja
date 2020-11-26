@@ -1,3 +1,4 @@
 exports.testiFunktio = function() {
-    console.log('testifunktio');
+    let ekaMuuttuja = "Olen ekamuuttuja"
+    console.log(ekaMuuttuja);
 }
